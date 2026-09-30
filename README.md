@@ -1,3 +1,3 @@
 # jesperrtje
 
-<img src="foto.jpg" width="300" alt="verity">
+<img src="verity.gif" width="300" alt="verity">
