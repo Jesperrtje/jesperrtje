@@ -1,2 +1,2 @@
 
-<img src="verity.gif" width="300" alt="verity">
+<img src="verity.gif" width="auto" alt="verity">
